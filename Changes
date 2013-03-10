@@ -1,5 +1,8 @@
 Revision history for Perl extension Acme::AirRead
 
+0.05    Sun Mar 10 00:27:00 2013
+        - del MYMETA files from dist
+
 0.04    Sun Oct 21 01:15:00 2012
         - update inc/Module::Install for perl 5.16
 
